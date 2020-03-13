@@ -1,9 +1,4 @@
-'''
-# Name:Darrel Reesha Pinto
-# Employee ID:142874
-# version no:Python 3
-'''
-# Feature1-Fuel Efficiency
+#Feature1-Fuel Efficiency
 import matplotlib.pyplot as plt
 import pandas as pd
 import gmplot
